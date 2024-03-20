@@ -1,0 +1,12 @@
+Estrategia sugerida para el plan de requisitos:
+	1.Redactar un plan de requisitos
+	2.Diseñar o adaptar un proceso de requisitos para el proyecto
+	3.Invertir en las actividades relacionadas con los requisitos en el ciclo de vida del sistema
+	4.Utilizar los requisitos
+		4.1.Requisitos efectivos
+		4.2.Practicas
+		4.3.Mecanismos
+		4.4.Metodos
+		4.5.Tecnicas
+		4.6.Herramientas
+		4.7.Capacitacion
