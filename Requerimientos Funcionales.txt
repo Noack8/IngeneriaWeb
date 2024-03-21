@@ -1,0 +1,5 @@
+R.F-1: Navegacion Intuitiva; Permite a los usuarios una navegacion sencilla, con un diseño claro y una estructura de menu logica.
+R.F-2: Gestion de contenido; Permitir que los administradores de la pagina puedad, editar, agregar y eliminar contenido de forma facil y rapida 
+R.F-3: Comentarios y Valoraciones; Dar opcion a los usurios un sistema de comentarios para poder saber sus necesidades y poder mejorar en ello.
+R.F-4: Integracion de Redes Sociales; Brindar mayor informacion, para una interaccion con los usuarios con mayores detalles y con mas especificaciones 
+R.F-5: .....
