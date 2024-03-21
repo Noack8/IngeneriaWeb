@@ -1,0 +1,5 @@
+R.N.F-1: Rendimiento; La pagina debe de ser capaz de cargar rapido y ser responsiva, asegurando tiempos de carga de cortos incluso en conexion de internet lento.
+R.N.F-2: Escalabilidad; la pagina debe de ser capaz de soprtar y manejar un aumento en el trafico y demanda de la misma.
+R.N.F-3: Disponibilidad; Mnatener la pagina funcionando en todo momento, con un tiempo de inactividad minimo, para ctulizaciones o mantenimiento 
+R.N.F-4: Compatibilidad; Asegurar que la pagina sea compatible con una grean variedad de navegadores y dispositivos, asi como su diseño.
+R.N.F-5: Usabilidad; La pagina debe de ser sencilla , ditactica y facil de comprender para los usuarios, con diseños intuitivos y una experiencia agradable.
