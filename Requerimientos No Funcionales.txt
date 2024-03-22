@@ -3,3 +3,25 @@ R.N.F-2: Escalabilidad; la pagina debe de ser capaz de soprtar y manejar un aume
 R.N.F-3: Disponibilidad; Mnatener la pagina funcionando en todo momento, con un tiempo de inactividad minimo, para ctulizaciones o mantenimiento 
 R.N.F-4: Compatibilidad; Asegurar que la pagina sea compatible con una grean variedad de navegadores y dispositivos, asi como su diseño.
 R.N.F-5: Usabilidad; La pagina debe de ser sencilla , ditactica y facil de comprender para los usuarios, con diseños intuitivos y una experiencia agradable.
+R.N.F-6: Cumplimiento normativo: Garantizar el cumplimiento de todas las leyes y regulaciones aplicables en relación con la prestación de servicios en línea, incluidos los requisitos legales, fiscales y de protección al consumidor.
+R.N.F-7: Mantenibilidad y escalabilidad del código: Escribir código limpio, modular y bien documentado que facilite la mantenibilidad a largo plazo y la escalabilidad de la plataforma, permitiendo futuras expansiones y actualizaciones de manera eficiente.
+R.N.F-8: Experiencia de usuario intuitiva: Diseñar una interfaz de usuario intuitiva y fácil de usar que proporcione una experiencia fluida y agradable para los clientes y los proveedores, minimizando la necesidad de aprendizaje y facilitando la navegación y la interacción.
+R.N.F-9: Seguridad de los datos: Garantizar la seguridad y la privacidad de los datos del cliente y del proveedor mediante la implementación de medidas de seguridad robustas, como cifrado de datos, protección contra ataques cibernéticos y cumplimiento de regulaciones de privacidad.
+R.N.F-10: Consistencia de la interfaz de usuario: Mantener una interfaz de usuario coherente en todas las páginas y secciones del sitio web, siguiendo estándares de diseño y usabilidad para facilitar la navegación y la comprensión por parte de los usuarios.
+R.N.F-11: Capacidad de recuperación ante fallos: Diseñar la plataforma con mecanismos de redundancia y respaldo para garantizar la continuidad del servicio en caso de fallos del sistema, incluyendo sistemas de copia de seguridad y recuperación de datos.
+R.N.F-12: Tiempos de respuesta del servidor: Garantizar tiempos de respuesta rápidos del servidor para todas las solicitudes de los usuarios, minimizando el tiempo de espera y mejorando la experiencia del usuario.
+
+__________________________^^^^^^^^^^^^^^^^^^^_______________________________
+
+OPCIONALES:
+Accesibilidad: Garantizar que la página web sea accesible para personas con discapacidades, cumpliendo con estándares de accesibilidad web como WCAG (Web Content Accessibility Guidelines) para garantizar que todos los usuarios puedan acceder y utilizar la plataforma de manera efectiva.
+
+Optimización de SEO: Implementar prácticas de optimización de motores de búsqueda (SEO) para mejorar la visibilidad de la página web en los resultados de búsqueda y atraer tráfico orgánico de calidad.
+
+Gestión eficiente de la memoria y los recursos del servidor: Optimizar el uso de recursos del servidor, como memoria y CPU, para garantizar un rendimiento óptimo y una escalabilidad eficiente de la plataforma, especialmente durante picos de tráfico
+
+Cumplimiento de estándares web: Asegurar que la página web cumpla con los estándares web establecidos por organizaciones como W3C (World Wide Web Consortium) para garantizar la interoperabilidad y la compatibilidad con tecnologías web actuales y futuras.
+
+Seguimiento y análisis de rendimiento: Implementar herramientas de seguimiento y análisis para monitorear el rendimiento del sitio web, analizar el comportamiento del usuario y obtener información valiosa para la optimización continua de la plataforma.
+
+Resistencia a ataques cibernéticos: Implementar medidas de seguridad proactivas, como firewalls, detección de intrusiones y parches de seguridad regulares, para proteger la plataforma contra ataques cibernéticos y garantizar la integridad y confidencialidad de los datos del usuario.
