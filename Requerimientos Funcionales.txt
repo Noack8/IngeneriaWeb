@@ -2,4 +2,25 @@ R.F-1: Navegacion Intuitiva; Permite a los usuarios una navegacion sencilla, con
 R.F-2: Gestion de contenido; Permitir que los administradores de la pagina puedad, editar, agregar y eliminar contenido de forma facil y rapida 
 R.F-3: Comentarios y Valoraciones; Dar opcion a los usurios un sistema de comentarios para poder saber sus necesidades y poder mejorar en ello.
 R.F-4: Integracion de Redes Sociales; Brindar mayor informacion, para una interaccion con los usuarios con mayores detalles y con mas especificaciones 
-R.F-5: .....
+R.F-5: Búsqueda de contenido: Implementar una función de búsqueda que permita a los usuarios encontrar rápidamente el contenido que están buscando.
+R.F-6:Gestión de perfiles de usuario: Permitir a los usuarios editar sus perfiles, actualizar información personal y cambiar preferencias de configuración.
+R.F-7:Notificaciones: Implementar un sistema de notificaciones para informar a los usuarios sobre actualizaciones importantes, mensajes nuevos o eventos relevantes(NOTIFICACION referente entre el trabajador y el cliente).
+R.F-7: Catálogo de servicios: Mostrar un catálogo completo y detallado de los servicios ofrecidos por los proveedores, incluyendo descripciones, precios y cualquier información relevante.
+R.F-8: Perfiles de proveedores: Proporcionar perfiles individuales para cada proveedor, que incluyan información detallada sobre su experiencia, habilidades, valoraciones y comentarios de clientes anteriores.
+R.F-9: Sistema de reserva o programación: Implementar un sistema de reserva o programación en línea que permita a los clientes seleccionar y reservar servicios en función de la disponibilidad del proveedor y sus propias preferencias de tiempo.
+R.F-10: Gestión de citas: Facilitar la gestión de citas tanto para proveedores como para clientes, con recordatorios automáticos de citas, confirmaciones y cancelaciones.
+________________________________^^^^^^^^^^^^________________________________
+
+Los siguientes son psosibles dependiendo de la complejidad del proyecto y tiempo.
+Filtrado y búsqueda avanzada: Permitir a los clientes filtrar y buscar servicios específicos según criterios como ubicación, categoría, precio, valoraciones, disponibilidad, etc.
+Interacción en tiempo real: Ofrecer funcionalidades de chat en tiempo real o mensajería instantánea para que los clientes puedan comunicarse directamente con los proveedores para hacer preguntas o discutir detalles antes de contratar un servicio.
+
+Sistema de valoración y reseñas: Permitir a los clientes dejar valoraciones y reseñas después de recibir un servicio, lo que proporciona retroalimentación útil para otros clientes y ayuda a mantener la calidad de los proveedores.
+
+Integración de pagos: Habilitar múltiples métodos de pago seguros para que los clientes puedan pagar por los servicios de manera conveniente y sin problemas directamente a través de la plataforma.
+
+Notificaciones y alertas: Enviar notificaciones automáticas a los clientes sobre confirmaciones de reserva, actualizaciones de citas, cambios en los servicios, ofertas especiales, etc.
+
+Personalización de la experiencia del usuario: Permitir a los clientes guardar sus preferencias, crear listas de favoritos, recibir recomendaciones personalizadas y acceder a historiales de reservas para una experiencia más personalizada y conveniente.
+
+LOS 
